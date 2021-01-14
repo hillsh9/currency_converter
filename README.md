@@ -14,7 +14,8 @@ I organized this project into 7 steps:
 1) Implement the space breaking functions
 2) Implement the quote extracting functions
 3) Implement the JSON extracting functions
-4) Implement the Web Service function
+4) Implement the Web Service function. In this project I connect to the Open Exchange Rates web api
+   https://docs.openexchangerates.org/docs/api-introduction
 5) Implement the currency functions
 6) Implement a simple application that leverages the functions in currency.py to allow a user to interact with it
 
